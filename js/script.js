@@ -66,5 +66,5 @@ function sendToWhatsApp() {
   if (message) parts.push(message);
 
   const text = parts.join(' ');
-  window.open(`https://wa.me/5491133473067?text=${encodeURIComponent(text)}`, '_blank');
+  window.open(`https://wa.me/5491134283860?text=${encodeURIComponent(text)}`, '_blank');
 }

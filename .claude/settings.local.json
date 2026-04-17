@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npm list:*)",
+      "Bash(npm install:*)",
+      "Bash(node generate_pptx.js)",
+      "Bash(node -e \"require\\('pptxgenjs'\\)\")",
+      "Bash(node -e \"const m = require\\('C:/Users/josel/AppData/Roaming/npm/node_modules/pptxgenjs'\\); console.log\\('ok', typeof m\\);\")",
+      "Bash(npm init:*)",
+      "Bash(python -m markitdown Propuesta_Web_TanzihSRL.pptx)",
+      "Bash(pip install:*)",
+      "Bash(where soffice:*)",
+      "Bash(where libreoffice:*)",
+      "Bash(python -m markitdown \"C:\\\\Users\\\\josel\\\\Documents\\\\TrabajosWeb\\\\TanizihSrl\\\\Propuesta_Web_TanzihSRL.pptx\")",
+      "Bash(python -c \"import win32com.client; print\\('win32com disponible'\\)\")",
+      "Bash(python -c \"import win32com.client; print\\('ok'\\)\")",
+      "Bash(python -c ':*)"
+    ]
+  }
+}

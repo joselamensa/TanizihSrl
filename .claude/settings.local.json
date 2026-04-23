@@ -15,7 +15,15 @@
       "Bash(python -m markitdown \"C:\\\\Users\\\\josel\\\\Documents\\\\TrabajosWeb\\\\TanizihSrl\\\\Propuesta_Web_TanzihSRL.pptx\")",
       "Bash(python -c \"import win32com.client; print\\('win32com disponible'\\)\")",
       "Bash(python -c \"import win32com.client; print\\('ok'\\)\")",
-      "Bash(python -c ':*)"
+      "Bash(python -c ':*)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:share.google)",
+      "WebFetch(domain:www.google.com)",
+      "Bash(ren \"WhatsApp Image 2026-04-20 at 11.23.28.jpeg\" \"serrana-product.jpeg\")",
+      "Bash(ren \"WhatsApp Image 2026-04-20 at 11.23.29.jpeg\" \"limon-product.jpeg\")",
+      "Bash(ren \"WhatsApp Image 2026-04-20 at 11.23.30.jpeg\" \"agua-con-gas-product.jpeg\")",
+      "Bash(ren \"WhatsApp Image 2026-04-20 at 11.23.31.jpeg\" \"naranja-product.jpeg\")",
+      "Bash(ren \"WhatsApp Image 2026-04-20 at 11.23.31 \\(1\\).jpeg\" \"agua-product.jpeg\")"
     ]
   }
 }
